@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manideep Katamoni</h1>
+<h1 align="center">Hi , I'm Manideep Katamoni</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -6,9 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KatamoniManideep&label=Profile+Views&color=0e75b6&style=for-the-badge" />
-</p>
 
 ---
 
